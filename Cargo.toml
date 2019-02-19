@@ -1,0 +1,7 @@
+[package]
+name = "rdbc"
+version = "0.1.0"
+authors = ["rbdc root <root@rust-dbc.org>"]
+edition = "2018"
+
+[dependencies]
